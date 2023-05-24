@@ -1,0 +1,6 @@
+name: Mutually-Exclusive
+version: '${project.version}'
+main: me.solacekairos.mutuallyexclusive.MutuallyExclusive
+api-version: 1.19
+authors: [ SolaceKairos ]
+description: Reworks anvil enchantment system for customizability
