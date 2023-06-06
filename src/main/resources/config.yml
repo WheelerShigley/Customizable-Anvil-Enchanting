@@ -38,6 +38,61 @@
   LURE: 3
   SILK_TOUCH: 1
 
-#Allowed Items
+#Enchant Cost (per_level):
+  MENDING_COST: 1
+  DURABILITY_COST: 1
+  VANISHING_CURSE_COST: 1
+  WATER_WORKER_COST: 1
+  PROTECTION_EXPLOSIONS_COST: 1
+  BINDING_CURSE_COST: 1
+  DEPTH_STRIDER_COST: 1
+  PROTECTION_FALL_COST: 1
+  PROTECTION_FIRE_COST: 1
+  SWIFT_SNEAK_COST: 1
+  FROST_WALKER_COST: 1
+  PROTECTION_PROJECTILE_COST: 1
+  PROTECTION_ENVIRONMENTAL_COST: 1
+  OXYGEN_COST: 1
+  SOUL_SPEED_COST: 1
+  THORNS_COST: 1
+  DAMAGE_ARTHROPODS_COST: 1
+  FIRE_ASPECT_COST: 1
+  LOOT_BONUS_MOBS_COST: 1
+  DAMAGE_ALL_COST: 1
+  DAMAGE_UNDEAD_COST: 1
+  SWEEPING_EDGE_COST: 1
+  CHANNELING_COST: 1
+  ARROW_FIRE_COST: 1
+  IMPALING_COST: 1
+  ARROW_INFINITE_COST: 1
+  LOYALTY_COST: 1
+  RIPTIDE_COST: 1
+  MULTISHOT_COST: 1
+  PIERCING_COST: 1
+  ARROW_DAMAGE_COST: 1
+  ARROW_KNOCKBACK_COST: 1
+  QUICK_CHARGE_COST: 1
+  DIG_SPEED_COST: 1
+  LOOT_BONUS_BLOCKS_COST: 1
+  LUCK_COST: 1
+  LURE_COST: 1
+  SILK_TOUCH_COST: 1
+
+#Anvil settings
+  Maximum_Level_Cost: 255
+
+#Allowed Enchants per Items
+  Item_Category_Names:
+    - "Helmets"
+    - "Wings"
+    - "Chestplates"
+    - "Boots"
+    - "Leggings"
+    - "NonWeapon_Tools"
+    - "Axes"
+    - "Melee"
+    - "Recurve_Ranged"
+    - "Charged_Ranged"
+    - "Miscellaneous"
 
 #Mutual Exclusivity
